@@ -1,0 +1,13 @@
+# Tip Calculator
+
+A command-line Python application that calculates how much each person should pay, including tip.
+
+## Features
+- User input for bill amount
+- Tip percentage selection
+- Bill split between people
+
+## Concepts Used
+- Variables
+- User input
+- Arithmetic operations
